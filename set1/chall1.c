@@ -15,15 +15,21 @@ void convert_hex_to_octet(hex) {
         return;
     }
 
+    
 
 
 }
 
-void convert_octet_to_6bits(){
+void hex_to_binary() {
+    //converter a posição do caracter (decimal) para binário
+    //a cada 2 caracteres hex - temos um octet
+}
+
+void convert_octet_to_6bits() {
 
 }
 
-void convert_6bits_to_base64(){
+void convert_6bits_to_base64() {
 
 }
 
